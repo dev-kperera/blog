@@ -7,14 +7,12 @@ hide:
 
 <div style="text-align: center;">
   <div class="centered-logo-text-group">
-    <img src="assets/profile-pic.png" alt="Kushan Perera" width="100">
+    <img src="assets/favicon.ico" alt="Kushan Perera" width="100">
     <h1>Kushan Perera</h1>
   </div>
 </div>
 
-## Who is Kushan Perera?
-
-:material-human-greeting:{.lg .middle } Hi, I'm Kushan Perera
+## Hi, I'm Kushan Perera
 
 I am a multi-cloud architect & Lead Software Engineer specializing in Cloud + AI solutions.
 
