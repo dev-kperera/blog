@@ -46,4 +46,4 @@ nav:
     - blog/index.md
 
 extra_css:
-  - stylesheets/code.css
+  - ./custom.css
