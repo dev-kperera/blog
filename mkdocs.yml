@@ -3,6 +3,7 @@ site_url: https://kushanperera.com
 
 theme:
   name: material
+  # custom_dir: overrides
   features:
     - navigation.indexes
     - content.code.copy
@@ -28,6 +29,13 @@ plugins:
   #     enabled: true
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  # Icons
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -40,10 +48,11 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.details
   
 nav:
   - Blog:
     - blog/index.md
 
 extra_css:
-  - ./custom.css
+  - stylesheets/extra.css
