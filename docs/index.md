@@ -18,7 +18,7 @@ I am a multi-cloud architect & Lead Software Engineer specializing in Cloud + AI
 
 I'm a passionate technologist with over a decade of experience solving complex business problems through innovative cloud architecture and AI solutions. 
 
-I currently lead technical teams at Northwell Health, designing, developing, and deploying enterprise-scale solutions.
+I currently lead technical teams at [Northwell Health](https://northwell.edu/), designing, developing, and deploying enterprise-scale solutions.
 
 <div class="grid cards" markdown>
 

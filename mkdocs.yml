@@ -7,6 +7,20 @@ theme:
   features:
     - navigation.indexes
     - content.code.copy
+    - navigation.footer
+
+# Footer configurations
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:footer@kushanperera.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/dev-kperera
+  generator: false
+
+copyright: Copyright &copy; Kushan Perera  
 
 plugins:
   - search
