@@ -54,13 +54,12 @@ I currently lead technical teams at [Northwell Health](https://northwell.edu/), 
 ## :material-handshake: How can I help you?
 Do you have a question or are you interested in working with me?
 
+[LinkedIn :fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/architect-kushan-perera/){ .md-button }
+[Appointments :fontawesome-regular-calendar:](https://topmate.io/kushan_perera){ .md-button }
 
-<p style="text-align:center;">
-  <a href="https://www.linkedin.com/in/architect-kushan-perera/" class="md-button" target="_blank" style="margin:3px">LinkedIn</a>
-<a href="mailto:hire-in@kushanperera.com" class="md-button" target="_blank" style="margin:3px">Hire</a>
-<a href="mailto:collab-in@kushanperera.com" class="md-button" target="_blank" style="margin:3px">LinkedIn</a>
-<a href="https://topmate.io/kushan_perera" class="md-button" target="_blank" style="margin:3px">Appointments </a>
-</p>
+
+
+... or email me at **web@kushanperera.com**
 
 ---
 
