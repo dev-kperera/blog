@@ -23,6 +23,7 @@ extra:
 copyright: Copyright &copy; Kushan Perera  
 
 plugins:
+  - obsidian-interactive-graph
   - search
   - blog:
       enabled: true
@@ -37,6 +38,7 @@ plugins:
       categories:
         - categories
         - tags
+  
   # - tags:
   #     enabled: true
   # - social:
@@ -67,6 +69,11 @@ markdown_extensions:
 nav:
   - Blog:
     - blog/index.md
+extra_javascript:
+  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
+  - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
+  - javascripts/interactive_graph.js
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/interactive_graph.css
